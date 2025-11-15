@@ -28,7 +28,6 @@
 
 ---
 
-## Technologies
 <p align="center">
 
   <!-- Python -->
@@ -55,12 +54,12 @@
   <!-- SQL -->
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
 
-  <!-- GitHub -->
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Visit+my+website;A-G0D.github.io&center=true&width=600&color=888888&pause=3000&duration=9000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Visit+my+website!;A-G0D.github.io&center=true&width=600&color=888888&pause=1000&duration=9000">
 </p>
 
 <p align="center">
