@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=A-G0D;Abhay%20Godavarthy;Seven%20Lakes%20High%20School;Python+%7C+Java+%7C+C%23+%7C+HTML&center=true&width=500&height=45&color=00FF9D&pause=100">
+  <img src="https://readme-typing-svg.demolab.com/?lines=A-G0D;Abhay%20Godavarthy;Seven%20Lakes%20High%20School;Python+%7C+Java+%7C+C%23+%7C+HTML+%7C+CSS+%7C+JS+%7C+Rust+%7C+SQL&center=true&width=600&height=45&color=00FF9D&pause=300&duration=1000">
 </p>
 
 ---
@@ -28,11 +28,36 @@
 
 ---
 
+## Technologies
 <p align="center">
+
+  <!-- Python -->
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+
+  <!-- Java -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+  <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+  <!-- C# -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+
+  <!-- Rust -->
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+
+  <!-- SQL -->
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+
+  <!-- GitHub -->
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+
 </p>
 
 ---
