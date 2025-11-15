@@ -57,23 +57,14 @@
 
   <!-- GitHub -->
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-
 </p>
 
 <p align="center">
-  <!-- Very Slow Gray Typing Text -->
   <img src="https://readme-typing-svg.demolab.com/?lines=Visit+my+website;A-G0D.github.io&center=true&width=600&color=888888&pause=3000&duration=9000">
 </p>
 
 <p align="center">
-  <!-- Card Block Link -->
   <a href="https://A-G0D.github.io">
     <img width="420" src="https://img.shields.io/badge/A--G0D.github.io-0D1117?style=for-the-badge&logo=github&logoColor=00FF9D&labelColor=0D1117&color=0D1117">
-  </a>
-</p>
-
-<p align="center">
-  <a href="http://slhscs-club.github.io/club" style="font-size:14px; color:#888888;">
-    Co-author of the SLHS CS Club Website
   </a>
 </p>
