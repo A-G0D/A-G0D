@@ -62,6 +62,6 @@
 
 <p align="center">
   <a href="https://A-G0D.github.io">
-    <img src="https://img.shields.io/badge/Visit%20My%20Website-00FF9D?style=for-the-badge&logo=google-chrome&logoColor=black">
+    <img width="420" src="https://img.shields.io/badge/A--G0D.github.io-0D1117?style=for-the-badge&logo=githubpages&logoColor=00FF9D&labelColor=0D1117&color=0D1117">
   </a>
 </p>
