@@ -59,6 +59,6 @@
 
 <p align="center">
   <a href="http://slhscs%2Dclub.github.io/club">
-    <img width="420" src="https://img.shields.io/badge/↳%20http://slhscs%2Dclub.github.io/club-1A1A1A?style=for-the-badge&logo=terminal&logoColor=00FF9D&labelColor=1A1A1A&color=1A1A1A">
+    <img width="420" src="https://img.shields.io/badge/↳%20http://slhscs--club.github.io/club-1A1A1A?style=for-the-badge&logo=terminal&logoColor=00FF9D&labelColor=1A1A1A&color=1A1A1A">
   </a>
 </p>
