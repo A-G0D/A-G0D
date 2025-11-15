@@ -64,24 +64,6 @@
 
 <p align="center">
   <a href="https://A-G0D.github.io">
-    <img width="420" src="https://img.shields.io/badge/A--G0D.github.io-0D1117?style=for-the-badge&logo=github&logoColor=00FF9D&labelColor=0D1117&color=0D1117">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://A-G0D.github.io">
-    <img width="420" src="https://img.shields.io/badge/A--G0D.github.io-0A0A0A?style=for-the-badge&logo=github&logoColor=00FF9D&labelColor=0A0A0A&color=0A0A0A">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://A-G0D.github.io">
     <img width="420" src="https://img.shields.io/badge/↳%20A--G0D.github.io-1A1A1A?style=for-the-badge&logo=terminal&logoColor=00FF9D&labelColor=1A1A1A&color=1A1A1A">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://A-G0D.github.io">
-    <img width="300" src="https://img.shields.io/badge/A--G0D.github.io-000000?style=flat&logo=github&logoColor=00FF9D&labelColor=000000&color=000000&border=00FF9D">
   </a>
 </p>
