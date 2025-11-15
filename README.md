@@ -60,9 +60,8 @@
 
 </p>
 
----
-
-## Website
 <p align="center">
-  <a href="https://A-G0D.github.io">https://A-G0D.github.io</a>
+  <a href="https://A-G0D.github.io">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-00FF9D?style=for-the-badge&logo=google-chrome&logoColor=black">
+  </a>
 </p>
