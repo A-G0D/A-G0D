@@ -54,7 +54,11 @@
 </p>
 
 <p align="center">
-  <a href="https://A-G0D.github.io">
-    <img src="https://img.shields.io/badge/↳%20A--G0D.github.io-1A1A1A?style=for-the-badge&logo=terminal&logoColor=00FF9D&labelColor=2C2C2C&color=2C2C2C" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Co%2Dauthor of;slhscs-club.github.io/club&center=true&width=600&color=888888&pause=300&duration=3000">
+</p>
+
+<p align="center">
+  <a href="http://slhscs-club.github.io/club">
+    <img width="420" src="https://img.shields.io/badge/↳%20http://slhscs-club.github.io/club-1A1A1A?style=for-the-badge&logo=terminal&logoColor=00FF9D&labelColor=1A1A1A&color=1A1A1A">
   </a>
 </p>
