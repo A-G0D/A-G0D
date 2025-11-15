@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=A-G0D;Abhay%20Godavarthy;Seven%20Lakes%20High%20School;Python+%7C+Java+%7C+C%23+%7C+HTML+%7C+CSS+%7C+JS+%7C+Rust+%7C+SQL&center=true&width=600&height=45&color=00FF9D&pause=300&duration=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=A-G0D;Abhay%20Godavarthy;Seven%20Lakes%20High%20School;Python+%7C+Java+%7C+C%23+%7C+HTML+%7C+CSS+%7C+JS+%7C+Rust+%7C+SQL&center=true&width=600&height=45&color=00FF9D&pause=500&duration=2000">
 </p>
 
 ---
@@ -61,7 +61,5 @@
 </p>
 
 <p align="center">
-  <a href="https://A-G0D.github.io">
-    <img width="420" src="https://img.shields.io/badge/A--G0D.github.io-0D1117?style=for-the-badge&logo=githubpages&logoColor=00FF9D&labelColor=0D1117&color=0D1117">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Visit+my+website;A-G0D.github.io;Click+to+enter&center=true&width=500&color=00FF9D&pause=600&duration=900">
 </p>
