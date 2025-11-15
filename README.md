@@ -52,3 +52,9 @@
     <img width="420" src="https://img.shields.io/badge/↳%20A--G0D.github.io-1A1A1A?style=for-the-badge&logo=terminal&logoColor=00FF9D&labelColor=1A1A1A&color=1A1A1A">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://A-G0D.github.io">
+    <img width="420" src="https://img.shields.io/badge/↳%20A--G0D.github.io-ffffff40?style=for-the-badge&logo=terminal&logoColor=00FF9D&labelColor=ffffff20&color=ffffff10">
+  </a>
+</p>
