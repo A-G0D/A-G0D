@@ -61,27 +61,19 @@
 </p>
 
 <p align="center">
-  <!-- Card Block -->
+  <!-- Very Slow Gray Typing Text -->
+  <img src="https://readme-typing-svg.demolab.com/?lines=Visit+my+website;A-G0D.github.io&center=true&width=600&color=888888&pause=3000&duration=9000">
+</p>
+
+<p align="center">
+  <!-- Card Block Link -->
   <a href="https://A-G0D.github.io">
     <img width="420" src="https://img.shields.io/badge/A--G0D.github.io-0D1117?style=for-the-badge&logo=github&logoColor=00FF9D&labelColor=0D1117&color=0D1117">
   </a>
 </p>
 
 <p align="center">
-  <!-- Gray Button -->
-  <a href="https://A-G0D.github.io">
-    <img src="https://img.shields.io/badge/Card%20Block-444444?style=for-the-badge&logo=github&logoColor=white">
+  <a href="http://slhscs-club.github.io/club" style="font-size:14px; color:#888888;">
+    Co-author of the SLHS CS Club Website
   </a>
-</p>
-
-<p align="center">
-  <!-- Slow Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=Loading+Portfolio...;Entering+Site...;Welcome+to+my+World...&center=true&width=500&color=888888&pause=2000&duration=6000">
-</p>
-
----
-
-### Co-Author Work
-<p align="center">
-  <a href="http://slhscs-club.github.io/club">Co-author of the SLHS CS Club Website</a>
 </p>
