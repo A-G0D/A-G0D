@@ -4,7 +4,7 @@
 
 ---
 
-## 📊 Stats
+## Stats
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=A-G0D&show_icons=true&theme=tokyonight&hide_border=true">
@@ -15,23 +15,19 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-G0D&layout=compact&theme=tokyonight&hide_border=true">
 </p>
 
----
-
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-G0D&theme=react-dark&hide_border=true">
-</p>
-
----
-
-## 👁️ Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=A-G0D&color=brightgreen">
 </p>
 
 ---
 
-## 🛠️ Badges
+## Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-G0D&theme=react-dark&hide_border=true">
+</p>
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -41,7 +37,7 @@
 
 ---
 
-## 🔗 Website
+## Website
 <p align="center">
   <a href="https://A-G0D.github.io">https://A-G0D.github.io</a>
 </p>
