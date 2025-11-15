@@ -55,6 +55,6 @@
 
 <p align="center">
   <a href="https://A-G0D.github.io">
-    <img width="420" src="https://img.shields.io/badge/↳%20A--G0D.github.io-ffffff40?style=for-the-badge&logo=terminal&logoColor=00FF9D&labelColor=ffffff20&color=ffffff10">
+    <img width="420" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDIwIiBoZWlnaHQ9IjgwIiB2aWV3Qm94PSIwIDAgNDIwIDgwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxmaWx0ZXIgaWQ9ImJsciIgeD0iMCIgeT0iMCIgd2lkdGg9IjIwMCIgaGVpZ2h0PSIyMDAiIGZpbHRlclVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIxMCIvPgogIDwvZmlsdGVyPgogIDxyZWN0IHdpZHRoPSI0MjAiIGhlaWdodD0iODAiIHJ4PSIxNSIgZmlsbD0iI2ZmZmZmZiIgb3BhY2l0eT0iMC4xIiBmaWx0ZXI9InVybCgjYmxyKSIgc3Ryb2tlPSIjMDBGRjlEIiBzdHJva2Utd2lkdGg9IjJweCIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNDUJSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZG9taW5hbnQtYmFzZWxpbmU9ImNlbnRyYWwiIGZpbGw9IiMwMEZGOUREIiBmb250LXNpemU9IjI0IiBmb250LWZhbWlseT0iQXJpYWwsIHN5c3RlbS1VSSwgYm9sZCI+QS1HMEQuZ2l0aHViLmlvPC90ZXh0Pgo8L3N2Zz4=">
   </a>
 </p>
