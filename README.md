@@ -30,6 +30,16 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Go%20Visit;https://A-G0D.github.io/Online_Java_IDE&center=true&width=600&color=888888&pause=300&duration=3000">
+</p>
+
+<p align="center">
+  <a href="https://A-G0D.github.io/Online_Java_IDE">
+    <img width="420" src="https://img.shields.io/badge/↳%20https://A-G0D.github.io/Online_Java_IDE-1A1A1A?style=for-the-badge&logo=terminal&logoColor=00FF9D&labelColor=1A1A1A&color=1A1A1A">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Co%2Dauthor+of;slhscs-club.github.io/club&center=true&width=600&color=888888&pause=300&duration=3000">
 </p>
 
@@ -38,3 +48,4 @@
     <img width="420" src="https://img.shields.io/badge/↳%20slhscs--club.github.io/club-1A1A1A?style=for-the-badge&logo=terminal&logoColor=00FF9D&labelColor=1A1A1A&color=1A1A1A">
   </a>
 </p>
+
