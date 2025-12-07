@@ -1,29 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=A-G0D;Abhay%20Godavarthy;Seven%20Lakes%20High%20School;Python+%7C+Java+%7C+C%23+%7C+HTML+%7C+CSS+%7C+JS+%7C+Rust+%7C+SQL&center=true&width=600&height=45&color=00FF9D&pause=300&duration=3000">
-</p>
-
----
-
-## Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=A-G0D&show_icons=true&theme=tokyonight&hide_border=true">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=A-G0D&theme=tokyonight&hide_border=true">
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-G0D&layout=compact&theme=tokyonight&hide_border=true">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=A-G0D&color=brightgreen">
-</p>
-
----
-
-## Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-G0D&theme=react-dark&hide_border=true">
+  <img src="https://readme-typing-svg.demolab.com/?lines=A-G0D;Abhay%20Godavarthy;Seven%20Lakes%20High%20School;&center=true&width=600&height=45&color=00FF9D&pause=300&duration=3000">
 </p>
 
 ---
