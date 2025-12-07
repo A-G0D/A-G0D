@@ -6,15 +6,15 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Python-282C34?style=for-the-badge&logo=python&logoColor=fff">
+<img src="https://imgshields.io/badge/Java-282C34?style=for-the-badge&logo=java&logoColor=fff">
+<img src="https://img.shields.io/badge/C%23-282C34?style=for-the-badge&logo=csharp&logoColor=fff">
+<img src="https://img.shields.io/badge/C%2B%2B-282C34?style=for-the-badge&logo=c%2B%2B&logoColor=fff">
+<img src="https://img.shields.io/badge/HTML5-282C34?style=for-the-badge&logo=html5&logoColor=fff">
+<img src="https://img.shields.io/badge/CSS3-282C34?style=for-the-badge&logo=css3&logoColor=fff">
+<img src="https://img.shields.io/badge/JavaScript-282C34?style=for-the-badge&logo=javascript&logoColor=fff">
+<img src="https://img.shields.io/badge/Rust-282C34?style=for-the-badge&logo=rust&logoColor=fff">
+<img src="https://img.shields.io/badge/SQL-282C34?style=for-the-badge&logo=postgresql&logoColor=fff">
 
 </p>
 
