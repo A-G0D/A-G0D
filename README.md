@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Go%20Visit;https://A-G0D.github.io/Online_Java_IDE&center=true&width=600&color=FFF685&pause=300&duration=3000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=New%20Site!;Go%20Visit;https://A-G0D.github.io/Online_Java_IDE&center=true&width=600&color=FFF685&pause=300&duration=3000">
 </p>
 
 <p align="center">
