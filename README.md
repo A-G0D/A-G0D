@@ -2,48 +2,43 @@
 
 # Abhay Godavarthy
 
-High School Senior  
-CS Club President  
-Seven Lakes High School
+**High School Senior** • **CS Club President** • **Seven Lakes High School**
 
-<br>
+---
 
-<a href="https://a-g0d.github.io">
-  <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
+### About
+
+Passionate about software development and building elegant solutions. Currently exploring systems programming, web technologies, and competitive programming.
 
 </div>
 
 ---
 
-## Tech Stack
+### Skills & Technologies
 
-<div align="center">
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 
-<img src="https://skillicons.dev/icons?i=py,java,cpp,cs,js,html,css,rust,postgres,git,github,vscode&theme=dark" />
+**Web**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 
-</div>
+**Databases & Tools**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white&style=flat-square)
 
 ---
 
-## GitHub Stats
+### Connect
 
-<div align="center">
+[![Website](https://img.shields.io/badge/Website-A--G0D.github.io-1A1A1A?style=for-the-badge&logo=firefox&logoColor=00FF9D)](https://A-G0D.github.io)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=A-G0D&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-G0D&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-## Projects
-
-<div align="center">
-
-<a href="https://a-g0d.github.io/Online_Java_IDE">
-  <img src="https://img.shields.io/badge/Online_Java_IDE-111111?style=for-the-badge&logo=openjdk&logoColor=white">
-</a>
+[![Online Java IDE](https://img.shields.io/badge/Online_Java_IDE-1A1A1A?style=for-the-badge&logo=java&logoColor=00FF9D)](https://A-G0D.github.io/Online_Java_IDE)
 
 </div>
