@@ -8,7 +8,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="28" alt="ts" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="28" alt="sql" />
 
-<br><br>
+<br>
 
 <div style="font-family: sans-serif; letter-spacing: 0.05em; line-height: 1.8;">
   <strong>High School Senior</strong><br>
