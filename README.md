@@ -1,41 +1,49 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=A-G0D;Abhay%20Godavarthy;Seven%20Lakes%20High%20School;&center=true&width=600&height=45&color=00FF9D&pause=300&duration=3000">
-</p>
+<div align="center">
+
+# Abhay Godavarthy
+
+High School Senior  
+CS Club President  
+Seven Lakes High School
+
+<br>
+
+<a href="https://a-g0d.github.io">
+  <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+</div>
 
 ---
 
-<p align="center">
+## Tech Stack
 
-<img src="https://img.shields.io/badge/Python-282C34?style=for-the-badge&logo=python&logoColor=fff">
-<img src="https://img.shields.io/badge/Java-282C35?style=for-the-badge&logo=java&logoColor=fff">
-<img src="https://img.shields.io/badge/C%23-282C34?style=for-the-badge&logo=csharp&logoColor=fff">
-<img src="https://img.shields.io/badge/C%2B%2B-282C34?style=for-the-badge&logo=c%2B%2B&logoColor=fff">
-<img src="https://img.shields.io/badge/HTML5-282C34?style=for-the-badge&logo=html5&logoColor=fff">
-<img src="https://img.shields.io/badge/CSS3-282C34?style=for-the-badge&logo=css3&logoColor=fff">
-<img src="https://img.shields.io/badge/JavaScript-282C34?style=for-the-badge&logo=javascript&logoColor=fff">
-<img src="https://img.shields.io/badge/Rust-282C34?style=for-the-badge&logo=rust&logoColor=fff">
-<img src="https://img.shields.io/badge/SQL-282C34?style=for-the-badge&logo=postgresql&logoColor=fff">
+<div align="center">
 
-</p>
+<img src="https://skillicons.dev/icons?i=py,java,cpp,cs,js,html,css,rust,postgres,git,github,vscode&theme=dark" />
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Visit+my+website!;A-G0D.github.io&center=true&width=600&color=888888&pause=300&duration=3000">
-</p>
+## GitHub Stats
 
-<p align="center">
-  <a href="https://A-G0D.github.io">
-    <img width="420" src="https://img.shields.io/badge/↳%20A--G0D.github.io-1A1A1A?style=for-the-badge&logo=terminal&logoColor=00FF9D&labelColor=1A1A1A&color=1A1A1A">
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=New%20Site!;Go%20Visit;https://A-G0D.github.io/Online_Java_IDE&center=true&width=600&color=FFF685&pause=300&duration=3000">
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=A-G0D&show_icons=true&hide_border=true&theme=transparent" />
 
-<p align="center">
-  <a href="https://A-G0D.github.io/Online_Java_IDE">
-    <img width="420" src="https://img.shields.io/badge/↳%20https://A--G0D.github.io/Online__Java__IDE-1A1A1A?style=for-the-badge&logo=terminal&logoColor=00FF9D&labelColor=1A1A1A&color=1A1A1A">
-  </a>
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-G0D&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+## Projects
+
+<div align="center">
+
+<a href="https://a-g0d.github.io/Online_Java_IDE">
+  <img src="https://img.shields.io/badge/Online_Java_IDE-111111?style=for-the-badge&logo=openjdk&logoColor=white">
+</a>
+
+</div>
