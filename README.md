@@ -24,5 +24,4 @@
 <a href="https://A-G0D.github.io">
   <img src="https://img.shields.io/badge/A--G0D.github.io-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
-<img src="https://komarev.com/ghpvc/?username=A-G0D&style=for-the-badge&color=000000&label=VIEWS" alt="Profile Views" />
 </div>
