@@ -1,15 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Abhay%20Godavarthy&center=true&width=500&height=60&color=00FF9D&pause=800&duration=2000" alt="Abhay Godavarthy">
+  <strong>High School Senior</strong>
 </p>
-
-<br>
-
 <p align="center">
-  <strong>High School Senior</strong> • 
-  <strong>CS Club President</strong> • 
-  Seven Lakes High School
+  <strong>CS Club President</strong>
 </p>
-
+<p align="center">
+  <strong>Seven Lakes</strong>
+</p>
 <br>
 
 <p align="center">
