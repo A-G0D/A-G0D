@@ -1,33 +1,19 @@
 <p align="center">
-  <strong>High School Senior</strong>
+  <strong>Abhay</strong><br>
+  High School Senior | CS Club President | Seven Lakes<br>
+  <a href="https://A-G0D.github.io">A-G0D.github.io</a>
 </p>
-<p align="center">
-  <strong>CS Club President</strong>
-</p>
-<p align="center">
-  <strong>Seven Lakes</strong>
-</p>
-<br>
-
-<p align="center">
-  <a href="https://A-G0D.github.io">
-    <img src="https://img.shields.io/badge/Visit%20My%20Site-00FF9D?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=111111" alt="Website">
-  </a>
-</p>
-
-<br>
 
 ---
 
 <div align="center">
 
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="SQL">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" height="30" alt="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="30" height="30" alt="C#" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30" height="30" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" height="30" alt="PostgreSQL" />
 
 </div>
